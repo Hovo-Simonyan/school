@@ -12,7 +12,7 @@ SECRET=your_secret_key
 DATABASE_URL=mysql....
 ```
 
-## Database user Setup(write thid code in graphql query server)
+## Database user Setup(write this code in graphql query server)
 
 ```
 mutation Register($email: String!, $password: String!){
